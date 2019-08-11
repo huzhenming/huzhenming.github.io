@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Post2s on My New Hugo Site</title>
-    <link>https://github.com/huzhenming/huzhenming.github.io/post2/</link>
+    <link>http://example.org/post2/</link>
     <description>Recent content in Post2s on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Aug 2019 16:38:43 +0800</lastBuildDate>
     
-	<atom:link href="https://github.com/huzhenming/huzhenming.github.io/post2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/post2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blog2</title>
-      <link>https://github.com/huzhenming/huzhenming.github.io/post2/blog2/</link>
+      <link>http://example.org/post2/blog2/</link>
       <pubDate>Sun, 11 Aug 2019 16:38:43 +0800</pubDate>
       
-      <guid>https://github.com/huzhenming/huzhenming.github.io/post2/blog2/</guid>
+      <guid>http://example.org/post2/blog2/</guid>
       <description>2019年8月11日      我的第一个个人博客   2019年8月11日 我的第一个个人博客 厉不厉害 欢迎在下方评论留言</description>
     </item>
     
