@@ -2,30 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://huzhenming.github.io/</link>
+    <link>https://huzhenming.git.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Aug 2019 16:38:43 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2019 08:33:07 +0800</lastBuildDate>
     
-	<atom:link href="https://huzhenming.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://huzhenming.git.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>学习心得</title>
+      <link>https://huzhenming.git.io/post2/diary/</link>
+      <pubDate>Wed, 14 Aug 2019 08:33:07 +0800</pubDate>
+      
+      <guid>https://huzhenming.git.io/post2/diary/</guid>
+      <description> 求两个数的最大公约数 昨天有人问我有两个数m和n,怎么才能求出这两个数的最大公约数。
+基本概念：  如果a能被b整除，a就叫做b的倍数，b就叫做a的约数。约数和和倍数都表示一个整数和另一个整数的关系，不能单独存在。例如：只能说16是某数的倍数，2是某数的约数，而不能孤立的说16是倍数，2是约数。
+ </description>
+    </item>
+    
+    <item>
+      <title>First2</title>
+      <link>https://huzhenming.git.io/post/first2/</link>
+      <pubDate>Tue, 13 Aug 2019 08:37:22 +0800</pubDate>
+      
+      <guid>https://huzhenming.git.io/post/first2/</guid>
+      <description> 大家好啊,今天是2019年8月13日08:37:58 上午 </description>
+    </item>
+    
+    <item>
       <title>Blog2</title>
-      <link>https://huzhenming.github.io/post2/blog2/</link>
+      <link>https://huzhenming.git.io/post2/blog2/</link>
       <pubDate>Sun, 11 Aug 2019 16:38:43 +0800</pubDate>
       
-      <guid>https://huzhenming.github.io/post2/blog2/</guid>
+      <guid>https://huzhenming.git.io/post2/blog2/</guid>
       <description>2019年8月11日      我的第一个个人博客   2019年8月11日 我的第一个个人博客 厉不厉害 欢迎在下方评论留言</description>
     </item>
     
     <item>
       <title>Blog</title>
-      <link>https://huzhenming.github.io/post2/blog/</link>
+      <link>https://huzhenming.git.io/post2/blog/</link>
       <pubDate>Sun, 11 Aug 2019 15:10:35 +0800</pubDate>
       
-      <guid>https://huzhenming.github.io/post2/blog/</guid>
+      <guid>https://huzhenming.git.io/post2/blog/</guid>
       <description> hello word 给你们布置一个作业,每人唱歌一首 </description>
     </item>
     

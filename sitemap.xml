@@ -3,34 +3,50 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://huzhenming.github.io/post2/blog2/</loc>
-    <lastmod>2019-08-11T16:38:43+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://huzhenming.github.io/</loc>
-    <lastmod>2019-08-11T16:38:43+08:00</lastmod>
+    <loc>https://huzhenming.git.io/</loc>
+    <lastmod>2019-08-14T08:33:07+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://huzhenming.github.io/post2/</loc>
-    <lastmod>2019-08-11T16:38:43+08:00</lastmod>
+    <loc>https://huzhenming.git.io/post2/</loc>
+    <lastmod>2019-08-14T08:33:07+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://huzhenming.github.io/post2/blog/</loc>
+    <loc>https://huzhenming.git.io/post2/diary/</loc>
+    <lastmod>2019-08-14T08:33:07+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://huzhenming.git.io/post/first2/</loc>
+    <lastmod>2019-08-13T08:37:22+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://huzhenming.git.io/post/</loc>
+    <lastmod>2019-08-13T08:37:22+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://huzhenming.git.io/post2/blog2/</loc>
+    <lastmod>2019-08-11T16:38:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://huzhenming.git.io/post2/blog/</loc>
     <lastmod>2019-08-11T15:10:35+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://huzhenming.github.io/categories/</loc>
+    <loc>https://huzhenming.git.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://huzhenming.github.io/tags/</loc>
+    <loc>https://huzhenming.git.io/tags/</loc>
     <priority>0</priority>
   </url>
   
